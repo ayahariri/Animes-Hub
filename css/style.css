@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+    background-image: url("https://files.slack.com/files-tmb/TNGRRLUMA-F01DTF0T7JR-0bd8a51455/bg_720.png");
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    ;
+}
+h1{
+    background-color:#9d0d0d;
+    color: #f5f5f5;
+    text-align: center;
+    padding: 20px 0px;
+}
+#form{
+    background-color:#5f5757bf;
+    width: 400px;
+    height: 330px;
+margin-left: 200px;
+margin-top: 200px;
+box-shadow: 1px 3px #f5f5f567;
+}
+#animeName{
+    color:#f5f5f5;
+    display: inline-block;
+    justify-content: space-around;
+    padding: 20px 10px;
+    font-size: 25px;
+    text-align: center;
+}
+#animeCategory{
+    color:#f5f5f5;
+    display: inline-block;
+    padding: 20px 10px; 
+    font-size: 25px;
+    text-align: center;
+}
+#textInput1{
+    padding: 10px 140px 10px 20px;
+border-radius: 5px;
+font-size: 20px;
+text-align: left;
+display: flex;
+justify-content: space-evenly;
+font-family: 'Roboto', sans-serif;
+margin-top: 5px;
+
+
+}
+#textInput2{
+    padding: 10px 225px 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: left;
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    margin-top: 5px;
+
+    }
+#submitBtn{
+    background-color: #9d0d0d;
+    color: #f5f5f5;
+    padding: 20px 160px;
+    border-color: #f5f5f5;
+    border-radius: 5px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+#myTable{
+    background-color:#5f5757bf ;
+   display: inline;
+   color: #f5f5f5;
+   margin-left: 700px;
+}
